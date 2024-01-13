@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOXI4LMUGT9ze+cU82pUuOMshH+M/2Q2qv4AKyvU9t9Xd5TcFpxnIFMHQeAWTKsnIlIxwlrNyvLU6G/iUZhfYA==",
+  "success": true,
+  "projectFilePath": "/Users/kashish/Desktop/koffebykashish/Koffee-by-Kashish/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/kashish/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/kashish/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kashish/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/kashish/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/kashish/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/kashish/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
